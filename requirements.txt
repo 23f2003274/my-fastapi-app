@@ -1,1 +1,6 @@
-fastapi\nnumpy\n
+fastapi
+numpy
+httpx
+uvicorn
+python-dotenv
+authlib
